@@ -11,5 +11,3 @@ AetherX is an internal client for Minecraft.
 5. Once injected, you are ready to go! 
 6. Press the **`Insert`** (Einfg) key on your keyboard to open the client menu.
 
-## Disclaimer
-This project is for educational purposes only.
