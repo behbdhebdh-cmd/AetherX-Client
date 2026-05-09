@@ -1,0 +1,82 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="18.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\benar\Downloads\cheat\Null Client\Null Client\Null Client\src\core\debug_console.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\benar\Downloads\cheat\Null Client\Null Client\Null Client\src\core\hooks.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\benar\Downloads\cheat\Null Client\Null Client\Null Client\src\core\jvm_wrapper.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\benar\Downloads\cheat\Null Client\Null Client\Null Client\src\dllmain.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\benar\Downloads\cheat\Null Client\Null Client\Null Client\src\modules\aimassist.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\benar\Downloads\cheat\Null Client\Null Client\Null Client\src\modules\esp.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\benar\Downloads\cheat\Null Client\Null Client\Null Client\src\modules\jesus.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\benar\Downloads\cheat\Null Client\Null Client\Null Client\src\modules\module_manager.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\benar\Downloads\cheat\Null Client\Null Client\Null Client\src\modules\reach.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\benar\Downloads\cheat\Null Client\Null Client\Null Client\src\modules\xray.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\benar\Downloads\cheat\Null Client\Null Client\Null Client\src\render\esp_renderer.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\benar\Downloads\cheat\Null Client\Null Client\Null Client\src\render\menu.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\benar\Downloads\cheat\Null Client\Null Client\Null Client\src\render\renderer.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\benar\Downloads\cheat\Null Client\Null Client\Null Client\src\sdk\entity.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\benar\Downloads\cheat\Null Client\Null Client\Null Client\src\sdk\minecraft.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\benar\Downloads\cheat\Null Client\Null Client\Null Client\src\sdk\world.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\benar\Downloads\cheat\Null Client\Null Client\Null Client\imgui\imgui.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\benar\Downloads\cheat\Null Client\Null Client\Null Client\imgui\imgui_draw.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\benar\Downloads\cheat\Null Client\Null Client\Null Client\imgui\imgui_tables.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\benar\Downloads\cheat\Null Client\Null Client\Null Client\imgui\imgui_widgets.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\benar\Downloads\cheat\Null Client\Null Client\Null Client\imgui\imgui_demo.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\benar\Downloads\cheat\Null Client\Null Client\Null Client\imgui\backends\imgui_impl_opengl3.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\benar\Downloads\cheat\Null Client\Null Client\Null Client\imgui\backends\imgui_impl_win32.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\benar\Downloads\cheat\Null Client\Null Client\Null Client\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{D48ED694-43BB-378B-A5D5-F2A4D1066F9F}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
